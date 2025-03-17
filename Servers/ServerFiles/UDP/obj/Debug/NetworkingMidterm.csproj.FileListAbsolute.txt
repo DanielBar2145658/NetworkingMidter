@@ -1,0 +1,7 @@
+D:\CodeProjects\NetworkingMidterm\bin\Debug\NetworkingMidterm.exe.config
+D:\CodeProjects\NetworkingMidterm\bin\Debug\NetworkingMidterm.exe
+D:\CodeProjects\NetworkingMidterm\bin\Debug\NetworkingMidterm.pdb
+D:\CodeProjects\NetworkingMidterm\obj\Debug\NetworkingMidterm.csproj.AssemblyReference.cache
+D:\CodeProjects\NetworkingMidterm\obj\Debug\NetworkingMidterm.csproj.CoreCompileInputs.cache
+D:\CodeProjects\NetworkingMidterm\obj\Debug\NetworkingMidterm.exe
+D:\CodeProjects\NetworkingMidterm\obj\Debug\NetworkingMidterm.pdb

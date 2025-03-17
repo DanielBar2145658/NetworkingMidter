@@ -1,0 +1,7 @@
+D:\CodeProjects\NetworkingMidtermChatMessaging\bin\Debug\NetworkingMidtermChatMessaging.exe.config
+D:\CodeProjects\NetworkingMidtermChatMessaging\bin\Debug\NetworkingMidtermChatMessaging.exe
+D:\CodeProjects\NetworkingMidtermChatMessaging\bin\Debug\NetworkingMidtermChatMessaging.pdb
+D:\CodeProjects\NetworkingMidtermChatMessaging\obj\Debug\NetworkingMidtermChatMessaging.csproj.AssemblyReference.cache
+D:\CodeProjects\NetworkingMidtermChatMessaging\obj\Debug\NetworkingMidtermChatMessaging.csproj.CoreCompileInputs.cache
+D:\CodeProjects\NetworkingMidtermChatMessaging\obj\Debug\NetworkingMidtermChatMessaging.exe
+D:\CodeProjects\NetworkingMidtermChatMessaging\obj\Debug\NetworkingMidtermChatMessaging.pdb
